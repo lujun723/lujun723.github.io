@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Where things are
 source:      .
 destination: ./_site
@@ -70,3 +71,6 @@ kramdown:
 
 
 include: ['_pages']
+=======
+theme: jekyll-theme-slate
+>>>>>>> origin/master
